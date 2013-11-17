@@ -1,0 +1,6 @@
+files:
+  - .bashrc
+  - .bash_aliases
+  - .emacs
+  - .ssh/config
+

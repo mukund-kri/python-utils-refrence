@@ -1,0 +1,15 @@
+{
+    "files": [
+	".bashrc",
+	".bash_aliases",
+	".emacs",
+	".ssh/config"
+    ],
+    
+    "directories": [
+	".emacs.d",
+	".xmonad"
+    ]
+}
+    
+
