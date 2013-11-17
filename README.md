@@ -11,7 +11,13 @@ files, object validation etc.
  2. YAML config files with PyYAML.
  3. JSON fonfig files.
 
+### Working with the command line ###
+
+ 1. Python's builtin argparse.
 
 
+### object validation ###
+
+ 1. weezy.validation.
 
 
